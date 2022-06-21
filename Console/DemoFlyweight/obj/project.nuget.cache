@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Bn3TN68CG3ztJ0eu1z4IWtcP5t/8i8WKwUXu2/EWabjZpDNwuIJEw1QdIAwkve08aiTiUHyhpCEOfw3S37CZw==",
+  "success": true,
+  "projectFilePath": "E:\\Hanh\\fpt\\2022-summer\\PRU211\\DemoFlyweight\\DemoFlyweight\\DemoFlyweight.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hanh2\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

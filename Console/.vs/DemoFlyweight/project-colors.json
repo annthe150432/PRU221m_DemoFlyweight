@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2306cbb6-4223-4274-a00c-f93cfea31433": {
+      "ProjectGuid": "2306cbb6-4223-4274-a00c-f93cfea31433",
+      "DisplayName": "DemoFlyweight",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
